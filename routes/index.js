@@ -60,7 +60,7 @@ router.post('/api/sign-up',user_controller.sign_up);
 router.post('/api/log-in', user_controller.log_in);
 
 //POST method for user to sign out
-router.post('/api/sign-out', user_controller.sign_out);
+//router.post('/api/sign-out', user_controller.sign_out);
 
 
 
